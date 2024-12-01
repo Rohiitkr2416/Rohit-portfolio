@@ -5,7 +5,7 @@ Portfolio
 
 **Cloning an React project and running locally**
 
-### `git clone https://github.com/nithingooud/Rohit-portfolio`
+### `git clone https://github.com/Rohiitkr2416/Rohit-portfolio`
 ### `cd Rohit-portfolio`
 
 **Look at the files and folder of the project**
